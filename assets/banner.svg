@@ -18,7 +18,7 @@
     <text x="210" y="82" font-size="13" fill="#A3A3A3">· QA Sênior</text>
     <text x="62" y="170" font-size="64" font-weight="800" fill="#F2F2F2" letter-spacing="-2">Thamires Azevedo</text>
     <text x="64" y="218" font-size="26" font-weight="700" fill="#F2F2F2">Qualidade que entende a regra de negócio, <tspan fill="#FEBC2E">não só o requisito.</tspan></text>
-    <text x="64" y="270" font-size="15" fill="#8A8A8A" font-family="JetBrains Mono, Consolas, monospace">Cypress · Playwright · APIs · BDD/Gherkin · Métricas de qualidade · IA aplicada a QA</text>
+    <text x="64" y="270" font-size="15" fill="#8A8A8A" font-family="JetBrains Mono, Consolas, monospace">Testes manuais · Automação com Cypress e Playwright · APIs · BDD/Gherkin · IA aplicada a QA</text>
   </g>
   <g transform="translate(1040 54)"><circle cx="0" cy="0" r="7" fill="#FF5F57"/><circle cx="22" cy="0" r="7" fill="#FEBC2E"/><circle cx="44" cy="0" r="7" fill="#28C840"/></g>
 </g>

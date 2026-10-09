@@ -10,7 +10,10 @@
 
 ### 👋 Oi, eu sou a Thamires
 
-QA Sênior com **7 anos em qualidade de software**, os últimos 5 em **produtos financeiros**. Atuo da análise de requisitos ao acompanhamento pós-deploy: automação com **Cypress e Playwright**, testes de **API**, modelagem em **BDD/Gherkin** e métricas de qualidade.
+QA Sênior com **7 anos em qualidade de software**, os últimos 5 em **produtos financeiros**. Atuo da análise de requisitos ao acompanhamento pós-deploy, com **testes manuais e automatizados** lado a lado:
+
+- 🧪 **Manual** — casos funcionais, exploratórios, de regressão e UAT, investigação de ponta a ponta e bugs com evidência e severidade pelo impacto real.
+- 🤖 **Automação** — **Cypress** e **Playwright** com JavaScript, testes de **API** com Postman e cenários em **BDD/Gherkin**.
 
 Combino técnica com negócio — tenho **CTFL (ISTQB)** e **ANBIMA CPA** — para validar o comportamento contra a regra de negócio, não só contra o requisito escrito. E uso **IA no fluxo de QA** para acelerar análise, cenários e documentação, sempre com revisão crítica.
 
@@ -24,6 +27,15 @@ formatos:
 ---
 
 ### 🛠️ Ferramentas
+
+**Testes manuais**
+<br>
+<img src="https://img.shields.io/badge/Funcionais-2B2B2B?style=flat-square" alt="Funcionais">
+<img src="https://img.shields.io/badge/Exploratórios-2B2B2B?style=flat-square" alt="Exploratórios">
+<img src="https://img.shields.io/badge/Regressão-2B2B2B?style=flat-square" alt="Regressão">
+<img src="https://img.shields.io/badge/UAT-2B2B2B?style=flat-square" alt="UAT">
+<img src="https://img.shields.io/badge/Análise%20de%20requisitos-2B2B2B?style=flat-square" alt="Análise de requisitos">
+<img src="https://img.shields.io/badge/Gestão%20de%20bugs-2B2B2B?style=flat-square" alt="Gestão de bugs">
 
 **Automação**
 <br>
@@ -52,8 +64,6 @@ formatos:
 **Práticas**
 <br>
 <img src="https://img.shields.io/badge/BDD%20%2F%20Gherkin-23D96C?style=flat-square&logo=cucumber&logoColor=white" alt="BDD / Gherkin">
-<img src="https://img.shields.io/badge/Regressão-2B2B2B?style=flat-square" alt="Regressão">
-<img src="https://img.shields.io/badge/Exploratórios-2B2B2B?style=flat-square" alt="Testes exploratórios">
 <img src="https://img.shields.io/badge/Métricas%20de%20qualidade-2B2B2B?style=flat-square" alt="Métricas de qualidade">
 <img src="https://img.shields.io/badge/IA%20aplicada%20a%20QA-2B2B2B?style=flat-square" alt="IA aplicada a QA">
 

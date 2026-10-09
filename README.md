@@ -5,6 +5,7 @@
 <p align="center">
   <a href="https://azevedothamirest.github.io"><img src="https://img.shields.io/badge/Portfólio-azevedothamirest.github.io-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio"></a>
   <a href="https://www.linkedin.com/in/qathamiresazevedo"><img src="https://img.shields.io/badge/LinkedIn-qathamiresazevedo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.instagram.com/qa.thami/"><img src="https://img.shields.io/badge/Instagram-@qa.thami%20·%20%2B15%20mil-DD2A7B?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram @qa.thami"></a>
   <a href="mailto:azevedothamirest@gmail.com"><img src="https://img.shields.io/badge/E--mail-azevedothamirest@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
 </p>
 
@@ -17,6 +18,19 @@ QA Sênior com **7 anos em qualidade de software**, os últimos 5 em **produtos 
 
 Combino técnica com negócio — tenho **CTFL (ISTQB)** e **ANBIMA CPA** — para validar o comportamento contra a regra de negócio, não só contra o requisito escrito. E uso **IA no fluxo de QA** para acelerar análise, cenários e documentação, sempre com revisão crítica.
 
+Meu papel não começa quando a tarefa chega em teste: atuo como **ponte entre Produto e Desenvolvimento desde o refinamento**, com critérios de "pronto" compartilhados pelo time, para o cliente receber exatamente o que foi combinado.
+
+#### Em números
+
+| Indicador | 2025 → 2026 | O que mudou |
+|---|---|---|
+| Retrabalho no ano | **~75% → ~32%** | Qualidade desde o backlog: a demanda chega clara no desenvolvimento |
+| Bugs críticos em produção | **~28 → ~5** | Critérios de bug crítico combinados entre QA, Produto e Dev |
+| Bugs por entrega (2º sem.) | **~29% → ~13%** | Análise antecipada e testes exploratórios |
+| Regressão | **~3h → 30 min** | Suíte automatizada e estável |
+
+<sub>Métricas aproximadas do meu último emprego, comparando 2025 e 2026 (até setembro). Sem dados internos da empresa ou do time.</sub>
+
 ```yaml
 disponível_para: QA Sênior
 formatos:
@@ -27,6 +41,10 @@ formatos:
 ---
 
 ### <img src="assets/icons/ferramentas.svg" width="22" height="22" align="top" alt=""> Ferramentas
+
+<details>
+<summary><b>Ver todas as ferramentas</b></summary>
+<br>
 
 **Testes manuais**
 <br>
@@ -67,6 +85,8 @@ formatos:
 <img src="https://img.shields.io/badge/Métricas%20de%20qualidade-2B2B2B?style=flat-square" alt="Métricas de qualidade">
 <img src="https://img.shields.io/badge/IA%20aplicada%20a%20QA-2B2B2B?style=flat-square" alt="IA aplicada a QA">
 
+</details>
+
 ---
 
 ### <img src="assets/icons/projetos.svg" width="22" height="22" align="top" alt=""> Projetos
@@ -97,6 +117,17 @@ Ferramentas que construí para dores reais do dia a dia de QA. O código é priv
     </td>
   </tr>
 </table>
+
+---
+
+### <img src="assets/icons/ola.svg" width="22" height="22" align="top" alt=""> Ensino e comunidade · [@qa.thami](https://www.instagram.com/qa.thami/)
+
+Quando era júnior, aprendi quase tudo sozinha. Hoje ensino QA para quem está começando, para **+15 mil seguidores** no Instagram, em parceria com o Senac, num e-book e em palestras.
+
+- **2021** · Seminário *Iniciante em Testes: o que você precisa saber!*
+- **2022** · E-book [*Comece por aqui, QA!*](https://www.amazon.com.br/dp/B0B2B64DGH) e participação no QAVerso
+- **2023** · TDC Connections · *Quality Assurance: o atraso do Brasil e a necessidade de mudanças na visão empresarial*
+- **2024** · TDC Summit Recife · *Como a Inteligência Artificial Está Redefinindo os Testes de Software*
 
 ---
 

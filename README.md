@@ -8,12 +8,12 @@
   <a href="mailto:azevedothamirest@gmail.com"><img src="https://img.shields.io/badge/E--mail-azevedothamirest@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
 </p>
 
-### 👋 Oi, eu sou a Thamires
+### <img src="assets/icons/ola.svg" width="22" height="22" align="top" alt=""> Oi, eu sou a Thamires
 
 QA Sênior com **7 anos em qualidade de software**, os últimos 5 em **produtos financeiros**. Atuo da análise de requisitos ao acompanhamento pós-deploy, com **testes manuais e automatizados** lado a lado:
 
-- 🧪 **Manual** — casos funcionais, exploratórios, de regressão e UAT, investigação de ponta a ponta e bugs com evidência e severidade pelo impacto real.
-- 🤖 **Automação** — **Cypress** e **Playwright** com JavaScript, testes de **API** com Postman e cenários em **BDD/Gherkin**.
+- <img src="assets/icons/manual.svg" width="18" height="18" align="top" alt=""> **Manual** — casos funcionais, exploratórios, de regressão e UAT, investigação de ponta a ponta e bugs com evidência e severidade pelo impacto real.
+- <img src="assets/icons/automacao.svg" width="18" height="18" align="top" alt=""> **Automação** — **Cypress** e **Playwright** com JavaScript, testes de **API** com Postman e cenários em **BDD/Gherkin**.
 
 Combino técnica com negócio — tenho **CTFL (ISTQB)** e **ANBIMA CPA** — para validar o comportamento contra a regra de negócio, não só contra o requisito escrito. E uso **IA no fluxo de QA** para acelerar análise, cenários e documentação, sempre com revisão crítica.
 
@@ -26,7 +26,7 @@ formatos:
 
 ---
 
-### 🛠️ Ferramentas
+### <img src="assets/icons/ferramentas.svg" width="22" height="22" align="top" alt=""> Ferramentas
 
 **Testes manuais**
 <br>
@@ -69,14 +69,14 @@ formatos:
 
 ---
 
-### 🚀 Projetos
+### <img src="assets/icons/projetos.svg" width="22" height="22" align="top" alt=""> Projetos
 
 Ferramentas que construí para dores reais do dia a dia de QA. O código é privado — os detalhes estão no [portfólio](https://azevedothamirest.github.io/#projetos).
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>📊 QA Pulse</h4>
+      <h4><img src="assets/icons/pulse.svg" width="20" height="20" align="top" alt=""> QA Pulse</h4>
       <p>Dashboard de qualidade que conecta no Jira, transforma issues em indicadores por time e aponta sozinho onde vale olhar.</p>
       <ul>
         <li>Taxa de rejeição, bugs externos e score por time, com metas configuráveis</li>
@@ -86,7 +86,7 @@ Ferramentas que construí para dores reais do dia a dia de QA. O código é priv
       <sub><code>Node.js</code> <code>Express</code> <code>SQLite</code> <code>OAuth 2.0</code> <code>PDFKit</code> · 101 testes</sub>
     </td>
     <td width="50%" valign="top">
-      <h4>🤖 QA Sidekick</h4>
+      <h4><img src="assets/icons/automacao.svg" width="20" height="20" align="top" alt=""> QA Sidekick</h4>
       <p>Assistente de QA no Claude Code que lê uma entrega do Jira como um QA experiente, monta o roteiro de teste e escreve bugs no padrão do time.</p>
       <ul>
         <li>Lê os comentários e usa o que foi corrigido neles como a versão que vale</li>
@@ -100,16 +100,16 @@ Ferramentas que construí para dores reais do dia a dia de QA. O código é priv
 
 ---
 
-### 💼 Trajetória
+### <img src="assets/icons/trajetoria.svg" width="22" height="22" align="top" alt=""> Trajetória
 
 | Quando | Onde | O quê |
 |---|---|---|
-| **agora** | 🟢 **Buscando nova oportunidade** | QA Sênior |
+| **agora** | <img src="assets/icons/status.svg" width="16" height="16" align="top" alt=""> **Buscando nova oportunidade** | QA Sênior |
 | 2021 – 2026 | **Grafeno** · fintech | Júnior → Pleno → **Senior QA Analyst** · regressão em Cypress, métricas e padrões de QA |
 | 2019 – 2021 | **Accenture** · consultoria | Analista de Teste · sistemas financeiros, SQL e UAT |
 
 <details>
-<summary><b>🎓 Formação e certificações</b></summary>
+<summary><img src="assets/icons/formacao.svg" width="18" height="18" align="top" alt=""> <b>Formação e certificações</b></summary>
 <br>
 
 - **Pós-graduação em Engenharia da Qualidade de Software** — Senac · 2023–2024
@@ -124,5 +124,5 @@ Ferramentas que construí para dores reais do dia a dia de QA. O código é priv
 ---
 
 <p align="center">
-  <sub>Gostou? Veja o <a href="https://azevedothamirest.github.io">portfólio completo</a> ou <a href="mailto:azevedothamirest@gmail.com">me mande um e-mail</a>. 🟢 Open to work</sub>
+  <sub>Gostou? Veja o <a href="https://azevedothamirest.github.io">portfólio completo</a> ou <a href="mailto:azevedothamirest@gmail.com">me mande um e-mail</a>. <img src="assets/icons/status.svg" width="14" height="14" align="top" alt=""> Open to work</sub>
 </p>

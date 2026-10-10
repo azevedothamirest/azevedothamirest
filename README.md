@@ -33,6 +33,7 @@ Meu papel não começa quando a tarefa chega em teste: atuo como **ponte entre P
 
 ```yaml
 disponível_para: QA Sênior
+início: imediato
 formatos:
   - presencial ou híbrido: Recife e região
   - remoto: Brasil e exterior
@@ -155,5 +156,5 @@ Quando era júnior, aprendi quase tudo sozinha. Hoje ensino QA para quem está c
 ---
 
 <p align="center">
-  <sub>Gostou? Veja o <a href="https://azevedothamirest.github.io">portfólio completo</a> ou <a href="mailto:azevedothamirest@gmail.com">me mande um e-mail</a>. <img src="assets/icons/status.svg" width="14" height="14" align="top" alt=""> Open to work</sub>
+  <sub>Gostou? Veja o <a href="https://azevedothamirest.github.io">portfólio completo</a> ou <a href="mailto:azevedothamirest@gmail.com">me mande um e-mail</a>. <img src="assets/icons/status.svg" width="14" height="14" align="top" alt=""> Open to work · início imediato</sub>
 </p>

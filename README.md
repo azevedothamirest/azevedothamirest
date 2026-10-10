@@ -14,7 +14,7 @@
 QA Sênior com **7 anos em qualidade de software**, os últimos 5 em **produtos financeiros**. Atuo da análise de requisitos ao acompanhamento pós-deploy, com **testes manuais e automatizados** lado a lado:
 
 - <img src="assets/icons/manual.svg" width="18" height="18" align="top" alt=""> **Manual** — casos funcionais, exploratórios, de regressão e UAT, investigação de ponta a ponta e bugs com evidência e severidade pelo impacto real.
-- <img src="assets/icons/automacao.svg" width="18" height="18" align="top" alt=""> **Automação** — **Cypress** e **Playwright** com JavaScript, testes de **API** com Postman e cenários em **BDD/Gherkin**.
+- <img src="assets/icons/automacao.svg" width="18" height="18" align="top" alt=""> **Automação** — **Cypress** e **Playwright** com JavaScript, testes de **API** com Postman, **testes de contrato**, fluxos assíncronos com **mensageria**, suíte integrada ao **CI/CD** e cenários em **BDD/Gherkin**.
 
 Combino técnica com negócio — tenho **CTFL (ISTQB)** e **ANBIMA CPA** — para validar o comportamento contra a regra de negócio, não só contra o requisito escrito. E uso **IA no fluxo de QA** para acelerar análise, cenários e documentação, sempre com revisão crítica.
 
@@ -63,11 +63,14 @@ formatos:
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
 <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" alt="Selenium">
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
+<img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="CI/CD">
 
 **APIs e dados**
 <br>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman">
 <img src="https://img.shields.io/badge/SoapUI-6BBE4C?style=flat-square&logo=smartbear&logoColor=white" alt="SoapUI">
+<img src="https://img.shields.io/badge/Testes%20de%20contrato-2B2B2B?style=flat-square" alt="Testes de contrato">
+<img src="https://img.shields.io/badge/Mensageria-2B2B2B?style=flat-square" alt="Mensageria">
 <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL">
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
@@ -137,7 +140,7 @@ Quando era júnior, aprendi quase tudo sozinha. Hoje ensino QA para quem está c
 | Quando | Onde | O quê |
 |---|---|---|
 | **agora** | <img src="assets/icons/status.svg" width="16" height="16" align="top" alt=""> **Buscando nova oportunidade** | QA Sênior |
-| 2021 – 2026 | **Grafeno** · fintech | Júnior → Pleno → **Senior QA Analyst** · regressão em Cypress, métricas e padrões de QA |
+| 2021 – 2026 | **Grafeno** · fintech | Júnior → Pleno → **Senior QA Analyst** · regressão em Cypress, CI/CD, testes de contrato, mensageria, métricas e padrões de QA |
 | 2019 – 2021 | **Accenture** · consultoria | Analista de Teste · sistemas financeiros, SQL e UAT |
 
 <details>

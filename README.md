@@ -129,6 +129,7 @@ Quando era júnior, aprendi quase tudo sozinha. Hoje ensino QA para quem está c
 - **2021** · Seminário *Iniciante em Testes: o que você precisa saber!*
 - **2022** · E-book [*Comece por aqui, QA!*](https://www.amazon.com.br/dp/B0B2B64DGH) e participação no QAVerso
 - **2023** · TDC Connections · *Quality Assurance: o atraso do Brasil e a necessidade de mudanças na visão empresarial*
+- **2023** · GDG DevFest Maceió (Roga DX)
 - **2024** · TDC Summit Recife · *Como a Inteligência Artificial Está Redefinindo os Testes de Software*
 
 ---

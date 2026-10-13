@@ -14,7 +14,7 @@
 QA Sênior com **7 anos em qualidade de software**, os últimos 5 em **produtos financeiros**. Atuo da análise de requisitos ao acompanhamento pós-deploy, com **testes manuais e automatizados** lado a lado:
 
 - <img src="assets/icons/manual.svg" width="18" height="18" align="top" alt=""> **Manual** — casos funcionais, exploratórios, de regressão e UAT, investigação de ponta a ponta e bugs com evidência e severidade pelo impacto real.
-- <img src="assets/icons/automacao.svg" width="18" height="18" align="top" alt=""> **Automação** — **Cypress** e **Playwright** com JavaScript, testes de **API** com Postman e cenários em **BDD/Gherkin**.
+- <img src="assets/icons/automacao.svg" width="18" height="18" align="top" alt=""> **Automação** — **Cypress** e **Playwright** com JavaScript, além de **Java** e **Ruby**, testes de **API** com Postman e cenários em **BDD/Gherkin**.
 
 Combino técnica com negócio — tenho **CTFL (ISTQB)** e **ANBIMA CPA** — para validar o comportamento contra a regra de negócio, não só contra o requisito escrito. E uso **IA no fluxo de QA** para acelerar análise, cenários e documentação, sempre com revisão crítica.
 
@@ -62,6 +62,8 @@ formatos:
 <img src="https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white" alt="Cypress">
 <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+<img src="https://img.shields.io/badge/Java-F89820?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
+<img src="https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white" alt="Ruby">
 <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" alt="Selenium">
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
 
@@ -76,6 +78,7 @@ formatos:
 **Gestão de testes**
 <br>
 <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira">
+<img src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white" alt="Trello">
 <img src="https://img.shields.io/badge/Xray-1E1E1E?style=flat-square&logoColor=white" alt="Xray">
 <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white" alt="Azure DevOps">
 <img src="https://img.shields.io/badge/TestRail-65C179?style=flat-square&logoColor=white" alt="TestRail">

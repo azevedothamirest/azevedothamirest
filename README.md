@@ -78,6 +78,7 @@ formatos:
 **Gestão de testes**
 <br>
 <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira">
+<img src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white" alt="Trello">
 <img src="https://img.shields.io/badge/Xray-1E1E1E?style=flat-square&logoColor=white" alt="Xray">
 <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white" alt="Azure DevOps">
 <img src="https://img.shields.io/badge/TestRail-65C179?style=flat-square&logoColor=white" alt="TestRail">

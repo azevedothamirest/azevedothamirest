@@ -3,10 +3,13 @@
 </a>
 
 <p align="center">
-  <a href="https://azevedothamirest.github.io"><img src="https://img.shields.io/badge/Portfólio-azevedothamirest.github.io-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio"></a>
-  <a href="https://www.linkedin.com/in/qathamiresazevedo"><img src="https://img.shields.io/badge/LinkedIn-qathamiresazevedo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://www.instagram.com/qa.thami/"><img src="https://img.shields.io/badge/Instagram-@qa.thami%20·%20%2B15%20mil-DD2A7B?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram @qa.thami"></a>
-  <a href="mailto:azevedothamirest@gmail.com"><img src="https://img.shields.io/badge/E--mail-azevedothamirest@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
+  <a href="https://azevedothamirest.github.io"><img src="https://img.shields.io/badge/Portfólio-azevedothamirest.github.io-A78BFA?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1C1C1C" alt="Portfólio"></a>
+  <a href="https://www.linkedin.com/in/qathamiresazevedo"><img src="https://img.shields.io/badge/LinkedIn-qathamiresazevedo-A78BFA?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1C1C1C" alt="LinkedIn"></a>
+  <br>
+  <a href="https://www.instagram.com/qa.thami/"><img src="https://img.shields.io/badge/Instagram-@qa.thami%20·%20%2B15%20mil-A78BFA?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1C1C1C" alt="Instagram @qa.thami"></a>
+  <a href="mailto:azevedothamirest@gmail.com"><img src="https://img.shields.io/badge/E--mail-azevedothamirest@gmail.com-A78BFA?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1C1C1C" alt="E-mail"></a>
+  <br>
+  <img src="https://img.shields.io/badge/Open%20to%20work-início%20imediato-1FD65F?style=for-the-badge&labelColor=1C1C1C" alt="Open to work, início imediato">
 </p>
 
 ### <img src="assets/icons/ola.svg" width="22" height="22" align="top" alt=""> Oi, eu sou a Thamires

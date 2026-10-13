@@ -34,6 +34,7 @@ Meu papel não começa quando a tarefa chega em teste: atuo como **ponte entre P
 ```yaml
 disponível_para: QA Sênior
 início: imediato
+inglês: B2, rumo ao C1
 formatos:
   - presencial ou híbrido: Recife e região
   - remoto: Brasil e exterior
@@ -150,6 +151,7 @@ Quando era júnior, aprendi quase tudo sozinha. Hoje ensino QA para quem está c
 - **CPA** — Certificado Profissional ANBIMA
 - **SFPC** · **DEPC** — Scrum Foundation e DevOps Essentials (CertiProf)
 - **Lean Six Sigma White Belt** · **LGPD**
+- **Inglês** — B2, avançando para C1 · Português nativo
 
 </details>
 

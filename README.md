@@ -127,7 +127,7 @@ Ferramentas que construí para dores reais do dia a dia de QA. O código é priv
 
 ### <img src="assets/icons/ola.svg" width="22" height="22" align="top" alt=""> Ensino e comunidade · [@qa.thami](https://www.instagram.com/qa.thami/)
 
-Quando era júnior, aprendi quase tudo sozinha. Hoje ensino QA para quem está começando, para **+15 mil seguidores** no Instagram, em parceria com o Senac, num e-book e em palestras.
+Quando era júnior, aprendi quase tudo sozinha. Hoje ensino QA para quem está começando, para **+15 mil seguidores** no Instagram, num e-book e em palestras.
 
 - **2021** · Seminário *Iniciante em Testes: o que você precisa saber!*
 - **2022**

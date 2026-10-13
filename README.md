@@ -1,5 +1,5 @@
 <a href="https://azevedothamirest.github.io">
-  <img src="assets/banner.svg" alt="Thamires Azevedo — QA Sênior · Open to work" width="100%">
+  <img src="assets/banner-v2.svg" alt="Thamires Azevedo — QA Sênior · Open to work" width="100%">
 </a>
 
 <p align="center">

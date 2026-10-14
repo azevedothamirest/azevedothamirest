@@ -99,9 +99,21 @@ formatos:
 
 ### <img src="assets/icons/projetos.svg" width="22" height="22" align="top" alt=""> Projetos
 
-Ferramentas que construí para dores reais do dia a dia de QA. O código é privado — os detalhes estão no [portfólio](https://azevedothamirest.github.io/#projetos).
+Ferramentas que construí para dores reais do dia a dia de QA. O QA Scout tem código aberto; o das outras é privado — os detalhes estão no [portfólio](https://azevedothamirest.github.io/#projetos).
 
 <table>
+  <tr>
+    <td colspan="2" valign="top">
+      <h4><img src="assets/icons/scout.svg" width="20" height="20" align="top" alt=""> <a href="https://github.com/azevedothamirest/qa-scout">QA Scout</a> <img src="https://img.shields.io/badge/novo%20projeto-em%20construção-1FD65F?style=flat-square&labelColor=1C1C1C" alt="Novo projeto, em construção" align="top"></h4>
+      <p>Extensão do Chrome para teste exploratório baseado em sessões. Enquanto você explora, ela registra cliques e tira prints sozinha; depois é só revisar e sair com o relatório pronto.</p>
+      <ul>
+        <li>Cliques, campos e páginas das abas marcadas viram observações com print, sem nunca ler o que é digitado</li>
+        <li>Revisão rápida: confirmar, editar ou trocar para bug antes de entrar no relatório</li>
+        <li>Baralho <i>“Travou? Puxa uma carta”</i> com 18 heurísticas e um desafio para fazer na hora</li>
+      </ul>
+      <sub><code>Chrome Extension (MV3)</code> <code>JavaScript</code> <code>Playwright</code> <code>GitHub Actions</code> · 41 testes · <a href="https://azevedothamirest.github.io/qa-scout/">versão web</a></sub>
+    </td>
+  </tr>
   <tr>
     <td width="50%" valign="top">
       <h4><img src="assets/icons/pulse.svg" width="20" height="20" align="top" alt=""> QA Pulse</h4>

@@ -104,14 +104,14 @@ Ferramentas que construí para dores reais do dia a dia de QA. O QA Scout tem c�
 <table>
   <tr>
     <td colspan="2" valign="top">
-      <h4><img src="assets/icons/scout.svg" width="20" height="20" align="top" alt=""> <a href="https://github.com/azevedothamirest/qa-scout">QA Scout</a> <img src="https://img.shields.io/badge/novo%20projeto-em%20construção-1FD65F?style=flat-square&labelColor=1C1C1C" alt="Novo projeto, em construção" align="top"></h4>
-      <p>Extensão do Chrome para teste exploratório baseado em sessões. Enquanto você explora, ela registra cliques e tira prints sozinha; depois é só revisar e sair com o relatório pronto.</p>
+      <h4><img src="assets/icons/scout.svg" width="20" height="20" align="top" alt=""> <a href="https://github.com/azevedothamirest/qa-scout">QA Scout</a> <img src="https://img.shields.io/badge/beta-aberto-1FD65F?style=flat-square&labelColor=1C1C1C" alt="Beta aberto" align="top"></h4>
+      <p>Companheiro de teste exploratório baseado em sessões (SBTM). Você escreve o charter, liga o cronômetro, anota o que encontra no ritmo da exploração e sai com o relatório pronto para o time. <b>Beta aberto.</b></p>
       <ul>
-        <li>Cliques, campos e páginas das abas marcadas viram observações com print, sem nunca ler o que é digitado</li>
-        <li>Revisão rápida: confirmar, editar ou trocar para bug antes de entrar no relatório</li>
-        <li>Baralho <i>“Travou? Puxa uma carta”</i> com 18 heurísticas e um desafio para fazer na hora</li>
+        <li>Charter no modelo de Elisabeth Hendrickson, cronômetro com pausa e notas por tipo (bug, dúvida, ideia, risco, observação) com o minuto exato</li>
+        <li>Navegador de teste em um comando (<code>npx</code>): os cliques viram observações com print, sem instalar extensão</li>
+        <li>Baralho <i>“Travou? Puxa uma carta”</i> com 18 heurísticas, debriefing com divisão TBS e relatório em Markdown ou PDF</li>
       </ul>
-      <sub><code>Chrome Extension (MV3)</code> <code>JavaScript</code> <code>Playwright</code> <code>GitHub Actions</code> · 41 testes · <a href="https://azevedothamirest.github.io/qa-scout/">versão web</a></sub>
+      <sub><code>JavaScript</code> <code>Node.js</code> <code>Playwright</code> <code>GitHub Actions</code> · <a href="https://azevedothamirest.github.io/qa-scout/">acessar o app</a></sub>
     </td>
   </tr>
   <tr>

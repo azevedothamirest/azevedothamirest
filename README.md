@@ -111,7 +111,7 @@ Ferramentas que construí para dores reais do dia a dia de QA. O QA Scout tem c�
         <li>Navegador de teste em um comando (<code>npx</code>): os cliques viram observações com print, sem instalar extensão</li>
         <li>Baralho <i>“Travou? Puxa uma carta”</i> com 18 heurísticas, debriefing com divisão TBS e relatório em Markdown ou PDF</li>
       </ul>
-      <sub><code>JavaScript</code> <code>Node.js</code> <code>Playwright</code> <code>GitHub Actions</code> · <a href="https://azevedothamirest.github.io/qa-scout/">acessar o app</a></sub>
+      <sub><code>JavaScript</code> <code>Node.js</code> <code>Playwright</code> <code>GitHub Actions</code></sub>
     </td>
   </tr>
   <tr>

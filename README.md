@@ -99,41 +99,26 @@ formatos:
 
 ### <img src="assets/icons/projetos.svg" width="22" height="22" align="top" alt=""> Projetos
 
-Ferramentas que construí para dores reais do dia a dia de QA. O QA Scout tem código aberto; o das outras é privado — os detalhes estão no [portfólio](https://azevedothamirest.github.io/#projetos).
+O QA Scout é um projeto meu, de código aberto. O QA Pulse e o QA Sidekick são ferramentas internas que construí na Grafeno e aparecem aqui só como portfólio, sem código nem dados. Mais no [portfólio](https://azevedothamirest.github.io/#projetos).
 
 <table>
   <tr>
     <td colspan="2" valign="top">
       <h4><img src="assets/icons/scout.svg" width="20" height="20" align="top" alt=""> <a href="https://github.com/azevedothamirest/qa-scout">QA Scout</a> <img src="https://img.shields.io/badge/novo%20projeto-em%20construção-1FD65F?style=flat-square&labelColor=1C1C1C" alt="Novo projeto, em construção" align="top"></h4>
-      <p>Extensão do Chrome para teste exploratório baseado em sessões. Enquanto você explora, ela registra cliques e tira prints sozinha; depois é só revisar e sair com o relatório pronto.</p>
-      <ul>
-        <li>Cliques, campos e páginas das abas marcadas viram observações com print, sem nunca ler o que é digitado</li>
-        <li>Revisão rápida: confirmar, editar ou trocar para bug antes de entrar no relatório</li>
-        <li>Baralho <i>“Travou? Puxa uma carta”</i> com 18 heurísticas e um desafio para fazer na hora</li>
-      </ul>
-      <sub><code>Chrome Extension (MV3)</code> <code>JavaScript</code> <code>Playwright</code> <code>GitHub Actions</code> · 41 testes · <a href="https://azevedothamirest.github.io/qa-scout/">versão web</a></sub>
+      <p>App web para teste exploratório: organiza a sessão, registra suas observações e entrega o relatório pronto no final.</p>
+      <sub><code>JavaScript</code> <code>Playwright</code> <code>GitHub Actions</code> · <a href="https://azevedothamirest.github.io/qa-scout/">abrir o app</a></sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4><img src="assets/icons/pulse.svg" width="20" height="20" align="top" alt=""> QA Pulse</h4>
-      <p>Dashboard de qualidade que conecta no Jira, transforma issues em indicadores por time e aponta sozinho onde vale olhar.</p>
-      <ul>
-        <li>Taxa de rejeição, bugs externos e score por time, com metas configuráveis</li>
-        <li>13 regras de insight automático, cada uma levando às issues que a geraram</li>
-        <li>Relatório PDF de um ou vários times, do mensal ao anual</li>
-      </ul>
-      <sub><code>Node.js</code> <code>Express</code> <code>SQLite</code> <code>OAuth 2.0</code> <code>PDFKit</code> · 101 testes</sub>
+      <h4><img src="assets/icons/pulse.svg" width="20" height="20" align="top" alt=""> QA Pulse <img src="https://img.shields.io/badge/projeto%20interno-Grafeno-FEBC2E?style=flat-square&labelColor=1C1C1C" alt="Projeto interno, Grafeno" align="top"></h4>
+      <p>Painel que reunia os indicadores de qualidade do time a partir do Jira, para apoiar as decisões do dia a dia.</p>
+      <sub>Construído no meu dia a dia como QA na Grafeno. Ferramenta interna, de propriedade da Grafeno.</sub>
     </td>
     <td width="50%" valign="top">
-      <h4><img src="assets/icons/automacao.svg" width="20" height="20" align="top" alt=""> QA Sidekick</h4>
-      <p>Assistente de QA no Claude Code que lê uma entrega do Jira como um QA experiente, monta o plano de testáveis e escreve bugs no padrão do time.</p>
-      <ul>
-        <li>Lê os comentários e usa o que foi corrigido neles como a versão que vale</li>
-        <li>Para quando a entrega não está pronta para teste</li>
-        <li>Nunca escreve no Jira sem confirmação</li>
-      </ul>
-      <sub><code>Claude Code</code> <code>Node.js</code> <code>Jira REST API</code> <code>BDD</code> · 0 dependências · 29 testes</sub>
+      <h4><img src="assets/icons/automacao.svg" width="20" height="20" align="top" alt=""> QA Sidekick <img src="https://img.shields.io/badge/projeto%20interno-Grafeno-FEBC2E?style=flat-square&labelColor=1C1C1C" alt="Projeto interno, Grafeno" align="top"></h4>
+      <p>Assistente com IA que apoiava a análise das entregas e a escrita de casos de teste e bugs, sempre com revisão do QA.</p>
+      <sub>Construído no meu dia a dia como QA na Grafeno. Ferramenta interna, de propriedade da Grafeno.</sub>
     </td>
   </tr>
 </table>

@@ -113,12 +113,12 @@ O QA Scout é um projeto meu, de código aberto. O QA Pulse e o QA Sidekick são
     <td width="50%" valign="top">
       <h4><img src="assets/icons/pulse.svg" width="20" height="20" align="top" alt=""> QA Pulse <img src="https://img.shields.io/badge/projeto%20interno-Grafeno-FEBC2E?style=flat-square&labelColor=1C1C1C" alt="Projeto interno, Grafeno" align="top"></h4>
       <p>Painel que reunia os indicadores de qualidade do time a partir do Jira, para apoiar as decisões do dia a dia.</p>
-      <sub>Construído no meu dia a dia como QA na Grafeno. Ferramenta interna, de propriedade da Grafeno.</sub>
+      <sub>Construído no meu dia a dia como QA na Grafeno. Ferramenta interna, de propriedade da Grafeno. O nome é fictício e a descrição é genérica, sem refletir 100% a ferramenta real.</sub>
     </td>
     <td width="50%" valign="top">
       <h4><img src="assets/icons/automacao.svg" width="20" height="20" align="top" alt=""> QA Sidekick <img src="https://img.shields.io/badge/projeto%20interno-Grafeno-FEBC2E?style=flat-square&labelColor=1C1C1C" alt="Projeto interno, Grafeno" align="top"></h4>
       <p>Assistente com IA que apoiava a análise das entregas e a escrita de casos de teste e bugs, sempre com revisão do QA.</p>
-      <sub>Construído no meu dia a dia como QA na Grafeno. Ferramenta interna, de propriedade da Grafeno.</sub>
+      <sub>Construído no meu dia a dia como QA na Grafeno. Ferramenta interna, de propriedade da Grafeno. O nome é fictício e a descrição é genérica, sem refletir 100% a ferramenta real.</sub>
     </td>
   </tr>
 </table>

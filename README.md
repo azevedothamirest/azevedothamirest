@@ -127,7 +127,7 @@ Ferramentas que construí para dores reais do dia a dia de QA. O QA Scout tem c�
     </td>
     <td width="50%" valign="top">
       <h4><img src="assets/icons/automacao.svg" width="20" height="20" align="top" alt=""> QA Sidekick</h4>
-      <p>Assistente de QA no Claude Code que lê uma entrega do Jira como um QA experiente, monta o roteiro de teste e escreve bugs no padrão do time.</p>
+      <p>Assistente de QA no Claude Code que lê uma entrega do Jira como um QA experiente, monta o plano de testáveis e escreve bugs no padrão do time.</p>
       <ul>
         <li>Lê os comentários e usa o que foi corrigido neles como a versão que vale</li>
         <li>Para quando a entrega não está pronta para teste</li>

@@ -104,9 +104,10 @@ O QA Scout é um projeto meu, de código aberto. O QA Pulse e o QA Sidekick são
 <table>
   <tr>
     <td colspan="2" valign="top">
-      <h4><img src="assets/icons/scout.svg" width="20" height="20" align="top" alt=""> <a href="https://github.com/azevedothamirest/qa-scout">QA Scout</a> <img src="https://img.shields.io/badge/novo%20projeto-em%20construção-1FD65F?style=flat-square&labelColor=1C1C1C" alt="Novo projeto, em construção" align="top"></h4>
-      <p>App web para teste exploratório: organiza a sessão, registra suas observações e entrega o relatório pronto no final.</p>
-      <sub><code>JavaScript</code> <code>Playwright</code> <code>GitHub Actions</code> · <a href="https://azevedothamirest.github.io/qa-scout/">abrir o app</a></sub>
+      <h4><img src="assets/icons/scout-logo.svg" width="20" height="20" align="top" alt=""> <a href="https://github.com/azevedothamirest/qa-scout">QA Scout</a> <img src="https://img.shields.io/badge/beta-3DF5A7?style=flat-square" alt="Beta" align="top"> <img src="https://img.shields.io/badge/no%20ar-Chrome%20Web%20Store-1FD65F?style=flat-square&labelColor=1C1C1C" alt="No ar na Chrome Web Store" align="top"></h4>
+      <p>Extensão do Chrome para teste exploratório (SBTM): organiza a sessão, captura cliques e erros sozinha e entrega o relatório pronto. Tem servidor MCP em que o Claude conduz a sessão, e 4 idiomas.</p>
+      <p>85 testes e2e em Playwright (desktop, celular e extensão real); os ~12 fluxos críticos rodam no pull request e bloqueiam o merge. Todo bug corrigido ganha teste.</p>
+      <sub><code>Playwright</code> <code>JavaScript</code> <code>GitHub Actions</code> <code>Chrome Extension</code> <code>MCP</code> · <a href="https://chromewebstore.google.com/detail/qa-scout/goffncpkhonlejcokjgiobomlpiefpin">Chrome Web Store</a> · <a href="https://azevedothamirest.github.io/qa-scout/">abrir o app</a></sub>
     </td>
   </tr>
   <tr>

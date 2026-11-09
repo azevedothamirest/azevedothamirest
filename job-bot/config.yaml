@@ -1,0 +1,32 @@
+# Preferências de busca — edite à vontade
+palavras_chave:
+  - QA
+  - Quality Assurance
+  - Analista de Testes
+  - QA Engineer
+  - SDET
+  - Automação de Testes
+
+senioridades: [senior, pleno]
+
+salario:
+  senior: { clt: [11000, 16000], pj: [16000, 20000] }
+  # pleno: o bot pesquisa quanto a empresa paga e sugere a pretensão
+
+localizacao:
+  remoto: Brasil            # remoto em qualquer lugar do Brasil
+  hibrido_presencial: Recife
+
+notas:
+  imediato: 80              # nota >= 80 → mensagem na hora
+  resumo_diario: 60         # 60–79 → resumo diário; abaixo disso, descarta
+
+intervalo_busca_horas: 3
+horario_resumo_diario: "19:00"
+
+# InHire: cada empresa tem uma página própria (empresa.inhire.app).
+# Coloque aqui o subdomínio. Também dá para adicionar pelo bot: /addempresa nome
+inhire_empresas:
+  - inhire
+
+modelo_claude: claude-opus-5-5

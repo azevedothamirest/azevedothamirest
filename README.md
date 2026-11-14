@@ -10,6 +10,9 @@
   <a href="mailto:azevedothamirest@gmail.com"><img src="https://img.shields.io/badge/E--mail-azevedothamirest@gmail.com-A78BFA?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1C1C1C" alt="E-mail"></a>
   <br>
   <img src="https://img.shields.io/badge/Open%20to%20work-início%20imediato-1FD65F?style=for-the-badge&labelColor=1C1C1C" alt="Open to work, início imediato">
+  <br>
+  <a href="https://azevedothamirest.github.io/assets/Thamires_Azevedo_CV.pdf"><img src="https://img.shields.io/badge/Currículo-PT-A78BFA?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=1C1C1C" alt="Currículo em português (PDF)"></a>
+  <a href="https://azevedothamirest.github.io/assets/Thamires_Azevedo_Resume_EN.pdf"><img src="https://img.shields.io/badge/Resume-EN-A78BFA?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=1C1C1C" alt="Resume in English (PDF)"></a>
 </p>
 
 ### <img src="assets/icons/ola.svg" width="22" height="22" align="top" alt=""> Oi, eu sou a Thamires

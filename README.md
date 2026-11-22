@@ -12,14 +12,14 @@
 
 ### <img src="assets/icons/ola.svg" width="22" height="22" align="top" alt=""> Oi, eu sou a Thamires
 
-Aprendi QA sozinha, testando, errando e anotando tudo. Sete anos depois, sou **QA Sênior** e continuo com a mesma curiosidade do começo: entender como as coisas funcionam e onde elas podem quebrar.
+Aprendi QA sozinha, testando, errando e anotando tudo. Sete anos depois, sigo com a mesma curiosidade do começo: entender como as coisas funcionam e onde elas podem quebrar.
 
 Gosto de qualidade que começa cedo, na conversa sobre o que vai ser construído, e não só quando a tarefa chega em teste. No dia a dia isso vira **testes manuais e automatizados** lado a lado, cenários em **BDD** e muita conversa com quem constrói e com quem usa.
 
 A outra metade é dividir o que aprendo: o **[@qa.thami](https://www.instagram.com/qa.thami/)** virou uma comunidade de **+15 mil pessoas**, um e-book e palestras. E a **IA** entrou na rotina como parceira para estudar, testar e criar ferramentas, sempre com olhar crítico.
 
 ```yaml
-agora: QA Sênior · ▒▒▒▒▒▒▒▒ (carregando…)
+agora: ▒▒▒▒▒▒▒▒ (carregando…)
 ensinando: QA para +15 mil no @qa.thami
 aberta_a: palestras, eventos e parcerias de conteúdo
 inglês: B2, rumo ao C1
@@ -73,11 +73,7 @@ Quando uma dor se repete no dia a dia, vira ferramenta. O QA Scout é a primeira
 
 ### <img src="assets/icons/trajetoria.svg" width="22" height="22" align="top" alt=""> Trajetória
 
-| Quando | Onde | Cargo |
-|---|---|---|
-| **2026 – agora** | ▒▒▒▒▒▒▒▒ · <sub><i>carregando…</i></sub> | ▒▒▒▒▒▒▒▒▒▒▒▒ |
-| 2021 – 2026 | **Grafeno** · fintech | QA Júnior → **QA Sênior** |
-| 2019 – 2021 | **Accenture** · consultoria | Analista de Teste |
+Passei por **consultoria** (Accenture) e **fintech** (Grafeno) antes de ▒▒▒▒▒▒▒▒ <sub><i>carregando…</i></sub>
 
 
 ---

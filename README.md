@@ -55,29 +55,16 @@ Ensino QA para quem está começando, do jeito que eu queria ter aprendido: **+1
 
 ---
 
-### <img src="assets/icons/projetos.svg" width="22" height="22" align="top" alt=""> Projetos
+### <img src="assets/icons/projetos.svg" width="22" height="22" align="top" alt=""> O que eu construo
 
-O QA Scout é um projeto meu, de código aberto. O QA Pulse e o QA Sidekick são ferramentas internas que construí na Grafeno e aparecem aqui só como portfólio, sem código nem dados. Mais no [portfólio](https://azevedothamirest.github.io/#projetos).
+Quando uma dor se repete no dia a dia, vira ferramenta. O QA Scout é a primeira que abri para todo mundo: gratuita, de código aberto e feita para quem testa.
 
 <table>
   <tr>
     <td colspan="2" valign="top">
       <h4><img src="assets/icons/scout-logo.svg" width="20" height="20" align="top" alt=""> <a href="https://github.com/azevedothamirest/qa-scout">QA Scout</a> <img src="https://img.shields.io/badge/beta-3DF5A7?style=flat-square" alt="Beta" align="top"> <img src="https://img.shields.io/badge/no%20ar-Chrome%20Web%20Store-1FD65F?style=flat-square&labelColor=1C1C1C" alt="No ar na Chrome Web Store" align="top"></h4>
       <p>Extensão do Chrome para teste exploratório (SBTM): organiza a sessão, captura cliques e erros sozinha e entrega o relatório pronto. Tem servidor MCP em que o Claude conduz a sessão, e 4 idiomas.</p>
-      <p>176 testes e2e em Playwright (desktop, celular e extensão real); os 19 testes de fluxos críticos rodam no pull request e bloqueiam o merge. Todo bug corrigido ganha teste.</p>
       <sub><code>Playwright</code> <code>JavaScript</code> <code>GitHub Actions</code> <code>Chrome Extension</code> <code>MCP</code> · <a href="https://chromewebstore.google.com/detail/qa-scout/goffncpkhonlejcokjgiobomlpiefpin">Chrome Web Store</a> · <a href="https://azevedothamirest.github.io/qa-scout/">abrir o app</a></sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4><img src="assets/icons/pulse.svg" width="20" height="20" align="top" alt=""> QA Pulse <img src="https://img.shields.io/badge/projeto%20interno-Grafeno-FEBC2E?style=flat-square&labelColor=1C1C1C" alt="Projeto interno, Grafeno" align="top"></h4>
-      <p>Painel que reunia os indicadores de qualidade do time a partir do Jira, para apoiar as decisões do dia a dia.</p>
-      <sub>Construído no meu dia a dia como QA na Grafeno. Ferramenta interna, de propriedade da Grafeno. O nome é fictício e a descrição é genérica, sem refletir 100% a ferramenta real.</sub>
-    </td>
-    <td width="50%" valign="top">
-      <h4><img src="assets/icons/automacao.svg" width="20" height="20" align="top" alt=""> QA Sidekick <img src="https://img.shields.io/badge/projeto%20interno-Grafeno-FEBC2E?style=flat-square&labelColor=1C1C1C" alt="Projeto interno, Grafeno" align="top"></h4>
-      <p>Assistente com IA que apoiava a análise das entregas e a escrita de casos de teste e bugs, sempre com revisão do QA.</p>
-      <sub>Construído no meu dia a dia como QA na Grafeno. Ferramenta interna, de propriedade da Grafeno. O nome é fictício e a descrição é genérica, sem refletir 100% a ferramenta real.</sub>
     </td>
   </tr>
 </table>
@@ -86,11 +73,11 @@ O QA Scout é um projeto meu, de código aberto. O QA Pulse e o QA Sidekick são
 
 ### <img src="assets/icons/trajetoria.svg" width="22" height="22" align="top" alt=""> Trajetória
 
-| Quando | Onde | O quê |
+| Quando | Onde | Cargo |
 |---|---|---|
 | **2026 – agora** | ▒▒▒▒▒▒▒▒ · <sub><i>carregando…</i></sub> | ▒▒▒▒▒▒▒▒▒▒▒▒ |
-| 2021 – 2026 | **Grafeno** · fintech | Júnior → Pleno → **Senior QA Analyst** · regressão em Cypress, métricas e padrões de QA |
-| 2019 – 2021 | **Accenture** · consultoria | Analista de Teste · sistemas financeiros, SQL e UAT |
+| 2021 – 2026 | **Grafeno** · fintech | QA Júnior → **QA Sênior** |
+| 2019 – 2021 | **Accenture** · consultoria | Analista de Teste |
 
 
 ---

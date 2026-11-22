@@ -12,16 +12,13 @@
 
 ### <img src="assets/icons/ola.svg" width="22" height="22" align="top" alt=""> Oi, eu sou a Thamires
 
-QA Sênior com **7 anos em qualidade de software**, 5 deles em **produtos financeiros**, e criadora do **[@qa.thami](https://www.instagram.com/qa.thami/)**, onde ensino QA para **+15 mil pessoas**. Atuo da análise de requisitos ao acompanhamento pós-deploy, com **testes manuais e automatizados** lado a lado:
+Aprendi QA sozinha, testando, errando e anotando tudo. Sete anos depois, sou **QA Sênior** e continuo com a mesma curiosidade do começo: entender como as coisas funcionam e onde elas podem quebrar.
 
-- <img src="assets/icons/manual.svg" width="18" height="18" align="top" alt=""> **Manual** — casos funcionais, exploratórios, de regressão e UAT, investigação de ponta a ponta e bugs com evidência e severidade pelo impacto real.
-- <img src="assets/icons/automacao.svg" width="18" height="18" align="top" alt=""> **Automação** — **Cypress** e **Playwright** com JavaScript, além de **Java** e **Ruby**, testes de **API** com Postman e cenários em **BDD/Gherkin**.
+Gosto de qualidade que começa cedo, na conversa sobre o que vai ser construído, e não só quando a tarefa chega em teste. No dia a dia isso vira **testes manuais e automatizados** lado a lado, cenários em **BDD** e muita conversa com quem constrói e com quem usa.
 
-Combino técnica com negócio — tenho **CTFL (ISTQB)** e **ANBIMA CPA** — para validar o comportamento contra a regra de negócio, não só contra o requisito escrito. E uso **IA no fluxo de QA** para acelerar análise, cenários e documentação, sempre com revisão crítica.
+A outra metade é dividir o que aprendo: o **[@qa.thami](https://www.instagram.com/qa.thami/)** virou uma comunidade de **+15 mil pessoas**, um e-book e palestras. E a **IA** entrou na rotina como parceira para estudar, testar e criar ferramentas, sempre com olhar crítico.
 
-Meu papel não começa quando a tarefa chega em teste: atuo como **ponte entre Produto e Desenvolvimento desde o refinamento**, com critérios de "pronto" compartilhados pelo time, para o cliente receber exatamente o que foi combinado.
-
-#### Em números
+#### Quando a qualidade entra desde o backlog
 
 | Indicador | 2025 → 2026 | O que mudou |
 |---|---|---|
@@ -38,6 +35,21 @@ ensinando: QA para +15 mil no @qa.thami
 aberta_a: palestras, eventos e parcerias de conteúdo
 inglês: B2, rumo ao C1
 ```
+
+---
+
+### <img src="assets/icons/ola.svg" width="22" height="22" align="top" alt=""> Ensino e comunidade · [@qa.thami](https://www.instagram.com/qa.thami/)
+
+Ensino QA para quem está começando, do jeito que eu queria ter aprendido: **+15 mil seguidores** no Instagram, um e-book e palestras.
+
+- **2021** · Seminário *Iniciante em Testes: o que você precisa saber!*
+- **2022**
+  - E-book [*Comece por aqui, QA!*](https://www.amazon.com.br/dp/B0B2B64DGH)
+  - Participação no QAVerso
+- **2023**
+  - TDC Connections · *Quality Assurance: o atraso do Brasil e a necessidade de mudanças na visão empresarial*
+  - GDG DevFest Maceió (Roga DX)
+- **2024** · TDC Summit Recife · *Como a Inteligência Artificial Está Redefinindo os Testes de Software*
 
 ---
 
@@ -119,21 +131,6 @@ O QA Scout é um projeto meu, de código aberto. O QA Pulse e o QA Sidekick são
     </td>
   </tr>
 </table>
-
----
-
-### <img src="assets/icons/ola.svg" width="22" height="22" align="top" alt=""> Ensino e comunidade · [@qa.thami](https://www.instagram.com/qa.thami/)
-
-Quando era júnior, aprendi quase tudo sozinha. Hoje ensino QA para quem está começando, para **+15 mil seguidores** no Instagram, num e-book e em palestras.
-
-- **2021** · Seminário *Iniciante em Testes: o que você precisa saber!*
-- **2022**
-  - E-book [*Comece por aqui, QA!*](https://www.amazon.com.br/dp/B0B2B64DGH)
-  - Participação no QAVerso
-- **2023**
-  - TDC Connections · *Quality Assurance: o atraso do Brasil e a necessidade de mudanças na visão empresarial*
-  - GDG DevFest Maceió (Roga DX)
-- **2024** · TDC Summit Recife · *Como a Inteligência Artificial Está Redefinindo os Testes de Software*
 
 ---
 

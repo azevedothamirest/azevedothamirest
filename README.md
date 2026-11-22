@@ -42,19 +42,6 @@ Ensino QA para quem está começando, do jeito que eu queria ter aprendido: **+1
 
 ---
 
-### <img src="assets/icons/ferramentas.svg" width="22" height="22" align="top" alt=""> No dia a dia
-
-<img src="https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white" alt="Cypress">
-<img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman">
-<img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL">
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
-<img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira">
-<img src="https://img.shields.io/badge/BDD%20%2F%20Gherkin-23D96C?style=flat-square&logo=cucumber&logoColor=white" alt="BDD / Gherkin">
-
----
-
 ### <img src="assets/icons/projetos.svg" width="22" height="22" align="top" alt=""> O que eu construo
 
 Quando uma dor se repete no dia a dia, vira ferramenta. O QA Scout é a primeira que abri para todo mundo: gratuita, de código aberto e feita para quem testa.

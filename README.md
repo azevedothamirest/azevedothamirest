@@ -12,7 +12,7 @@
 
 ### <img src="assets/icons/ola.svg" width="22" height="22" align="top" alt=""> Oi, eu sou a Thamires
 
-QA Sênior com **7 anos em qualidade de software**, os últimos 5 em **produtos financeiros**. Atuo da análise de requisitos ao acompanhamento pós-deploy, com **testes manuais e automatizados** lado a lado:
+QA Sênior com **7 anos em qualidade de software**, 5 deles em **produtos financeiros**, e criadora do **[@qa.thami](https://www.instagram.com/qa.thami/)**, onde ensino QA para **+15 mil pessoas**. Atuo da análise de requisitos ao acompanhamento pós-deploy, com **testes manuais e automatizados** lado a lado:
 
 - <img src="assets/icons/manual.svg" width="18" height="18" align="top" alt=""> **Manual** — casos funcionais, exploratórios, de regressão e UAT, investigação de ponta a ponta e bugs com evidência e severidade pelo impacto real.
 - <img src="assets/icons/automacao.svg" width="18" height="18" align="top" alt=""> **Automação** — **Cypress** e **Playwright** com JavaScript, além de **Java** e **Ruby**, testes de **API** com Postman e cenários em **BDD/Gherkin**.
@@ -33,12 +33,10 @@ Meu papel não começa quando a tarefa chega em teste: atuo como **ponte entre P
 <sub>Métricas aproximadas do meu último emprego, comparando 2025 e 2026 (até setembro). Sem dados internos da empresa ou do time.</sub>
 
 ```yaml
-disponível_para: QA Sênior
-início: imediato
+agora: QA Sênior · ▒▒▒▒▒▒▒▒ (carregando…)
+ensinando: QA para +15 mil no @qa.thami
+aberta_a: palestras, eventos e parcerias de conteúdo
 inglês: B2, rumo ao C1
-formatos:
-  - presencial ou híbrido: Recife e região
-  - remoto: Brasil e exterior
 ```
 
 ---

@@ -1,5 +1,5 @@
 <a href="https://azevedothamirest.github.io">
-  <img src="assets/banner-v2.svg" alt="Thamires Azevedo — QA Sênior · Open to work" width="100%">
+  <img src="assets/banner-v2.svg" alt="Thamires Azevedo — QA Sênior" width="100%">
 </a>
 
 <p align="center">
@@ -8,8 +8,6 @@
   <br>
   <a href="https://www.instagram.com/qa.thami/"><img src="https://img.shields.io/badge/Instagram-@qa.thami%20·%20%2B15%20mil-A78BFA?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1C1C1C" alt="Instagram @qa.thami"></a>
   <a href="mailto:azevedothamirest@gmail.com"><img src="https://img.shields.io/badge/E--mail-azevedothamirest@gmail.com-A78BFA?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1C1C1C" alt="E-mail"></a>
-  <br>
-  <img src="https://img.shields.io/badge/Open%20to%20work-início%20imediato-1FD65F?style=for-the-badge&labelColor=1C1C1C" alt="Open to work, início imediato">
   <br>
   <a href="https://azevedothamirest.github.io/assets/Thamires_Azevedo_CV.pdf"><img src="https://img.shields.io/badge/Currículo-PT-A78BFA?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=1C1C1C" alt="Currículo em português (PDF)"></a>
   <a href="https://azevedothamirest.github.io/assets/Thamires_Azevedo_Resume_EN.pdf"><img src="https://img.shields.io/badge/Resume-EN-A78BFA?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=1C1C1C" alt="Resume in English (PDF)"></a>
@@ -148,7 +146,6 @@ Quando era júnior, aprendi quase tudo sozinha. Hoje ensino QA para quem está c
 
 | Quando | Onde | O quê |
 |---|---|---|
-| **agora** | <img src="assets/icons/status.svg" width="16" height="16" align="top" alt=""> **Buscando nova oportunidade** | QA Sênior |
 | 2021 – 2026 | **Grafeno** · fintech | Júnior → Pleno → **Senior QA Analyst** · regressão em Cypress, métricas e padrões de QA |
 | 2019 – 2021 | **Accenture** · consultoria | Analista de Teste · sistemas financeiros, SQL e UAT |
 
@@ -169,5 +166,5 @@ Quando era júnior, aprendi quase tudo sozinha. Hoje ensino QA para quem está c
 ---
 
 <p align="center">
-  <sub>Gostou? Veja o <a href="https://azevedothamirest.github.io">portfólio completo</a> ou <a href="mailto:azevedothamirest@gmail.com">me mande um e-mail</a>. <img src="assets/icons/status.svg" width="14" height="14" align="top" alt=""> Open to work · início imediato</sub>
+  <sub>Gostou? Veja o <a href="https://azevedothamirest.github.io">portfólio completo</a> ou <a href="mailto:azevedothamirest@gmail.com">me mande um e-mail</a>.</sub>
 </p>

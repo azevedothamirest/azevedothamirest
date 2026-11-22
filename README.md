@@ -18,11 +18,7 @@ Gosto de qualidade que começa cedo, na conversa sobre o que vai ser construído
 
 Também gosto de dividir o que aprendo: foi assim que nasceram o **[@qa.thami](https://www.instagram.com/qa.thami/)**, um e-book e as palestras. E a **IA** entrou na rotina como parceira para estudar, testar e criar ferramentas, sempre com olhar crítico.
 
-```yaml
-agora: ▒▒▒▒▒▒▒▒ (carregando…)
-ensinando: QA no @qa.thami
-aberta_a: palestras, eventos e parcerias de conteúdo
-```
+**Hoje:** ▒▒▒▒▒▒▒▒ <sub><i>carregando…</i></sub> · ensinando QA no @qa.thami · aberta a palestras e parcerias de conteúdo.
 
 ---
 

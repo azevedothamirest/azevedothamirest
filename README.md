@@ -18,17 +18,6 @@ Gosto de qualidade que começa cedo, na conversa sobre o que vai ser construído
 
 A outra metade é dividir o que aprendo: o **[@qa.thami](https://www.instagram.com/qa.thami/)** virou uma comunidade de **+15 mil pessoas**, um e-book e palestras. E a **IA** entrou na rotina como parceira para estudar, testar e criar ferramentas, sempre com olhar crítico.
 
-#### Quando a qualidade entra desde o backlog
-
-| Indicador | 2025 → 2026 | O que mudou |
-|---|---|---|
-| Retrabalho no ano | **~75% → ~32%** | Qualidade desde o backlog: a demanda chega clara no desenvolvimento |
-| Bugs críticos em produção | **~28 → ~5** | Critérios de bug crítico combinados entre QA, Produto e Dev |
-| Bugs por entrega (2º sem.) | **~29% → ~13%** | Análise antecipada e testes exploratórios |
-| Regressão | **~3h → 30 min** | Suíte automatizada e estável |
-
-<sub>Métricas aproximadas do meu último emprego, comparando 2025 e 2026 (até setembro). Sem dados internos da empresa ou do time.</sub>
-
 ```yaml
 agora: QA Sênior · ▒▒▒▒▒▒▒▒ (carregando…)
 ensinando: QA para +15 mil no @qa.thami

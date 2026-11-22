@@ -8,9 +8,6 @@
   <br>
   <a href="https://www.instagram.com/qa.thami/"><img src="https://img.shields.io/badge/Instagram-@qa.thami%20·%20%2B15%20mil-A78BFA?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1C1C1C" alt="Instagram @qa.thami"></a>
   <a href="mailto:azevedothamirest@gmail.com"><img src="https://img.shields.io/badge/E--mail-azevedothamirest@gmail.com-A78BFA?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1C1C1C" alt="E-mail"></a>
-  <br>
-  <a href="https://azevedothamirest.github.io/assets/Thamires_Azevedo_CV.pdf"><img src="https://img.shields.io/badge/Currículo-PT-A78BFA?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=1C1C1C" alt="Currículo em português (PDF)"></a>
-  <a href="https://azevedothamirest.github.io/assets/Thamires_Azevedo_Resume_EN.pdf"><img src="https://img.shields.io/badge/Resume-EN-A78BFA?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=1C1C1C" alt="Resume in English (PDF)"></a>
 </p>
 
 ### <img src="assets/icons/ola.svg" width="22" height="22" align="top" alt=""> Oi, eu sou a Thamires

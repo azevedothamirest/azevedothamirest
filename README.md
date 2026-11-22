@@ -146,6 +146,7 @@ Quando era júnior, aprendi quase tudo sozinha. Hoje ensino QA para quem está c
 
 | Quando | Onde | O quê |
 |---|---|---|
+| **2026 – agora** | ▒▒▒▒▒▒▒▒ · <sub><i>carregando…</i></sub> | ▒▒▒▒▒▒▒▒▒▒▒▒ |
 | 2021 – 2026 | **Grafeno** · fintech | Júnior → Pleno → **Senior QA Analyst** · regressão em Cypress, métricas e padrões de QA |
 | 2019 – 2021 | **Accenture** · consultoria | Analista de Teste · sistemas financeiros, SQL e UAT |
 

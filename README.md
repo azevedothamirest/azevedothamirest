@@ -92,19 +92,6 @@ O QA Scout é um projeto meu, de código aberto. O QA Pulse e o QA Sidekick são
 | 2021 – 2026 | **Grafeno** · fintech | Júnior → Pleno → **Senior QA Analyst** · regressão em Cypress, métricas e padrões de QA |
 | 2019 – 2021 | **Accenture** · consultoria | Analista de Teste · sistemas financeiros, SQL e UAT |
 
-<details>
-<summary><img src="assets/icons/formacao.svg" width="18" height="18" align="top" alt=""> <b>Formação e certificações</b></summary>
-<br>
-
-- **Pós-graduação em Engenharia da Qualidade de Software** — Senac · 2023–2024
-- **Bacharelado em Sistemas de Informação** — UNINASSAU · 2018–2021
-- **CTFL** — Certified Tester Foundation Level (ISTQB)
-- **CPA** — Certificado Profissional ANBIMA
-- **SFPC** · **DEPC** — Scrum Foundation e DevOps Essentials (CertiProf)
-- **Lean Six Sigma White Belt** · **LGPD**
-- **Inglês** — B2, avançando para C1 · Português nativo
-
-</details>
 
 ---
 

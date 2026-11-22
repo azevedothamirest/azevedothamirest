@@ -42,55 +42,16 @@ Ensino QA para quem está começando, do jeito que eu queria ter aprendido: **+1
 
 ---
 
-### <img src="assets/icons/ferramentas.svg" width="22" height="22" align="top" alt=""> Ferramentas
+### <img src="assets/icons/ferramentas.svg" width="22" height="22" align="top" alt=""> No dia a dia
 
-<details>
-<summary><b>Ver todas as ferramentas</b></summary>
-<br>
-
-**Testes manuais**
-<br>
-<img src="https://img.shields.io/badge/Funcionais-2B2B2B?style=flat-square" alt="Funcionais">
-<img src="https://img.shields.io/badge/Exploratórios-2B2B2B?style=flat-square" alt="Exploratórios">
-<img src="https://img.shields.io/badge/Regressão-2B2B2B?style=flat-square" alt="Regressão">
-<img src="https://img.shields.io/badge/UAT-2B2B2B?style=flat-square" alt="UAT">
-<img src="https://img.shields.io/badge/Análise%20de%20requisitos-2B2B2B?style=flat-square" alt="Análise de requisitos">
-<img src="https://img.shields.io/badge/Gestão%20de%20bugs-2B2B2B?style=flat-square" alt="Gestão de bugs">
-
-**Automação**
-<br>
 <img src="https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white" alt="Cypress">
 <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
-<img src="https://img.shields.io/badge/Java-F89820?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
-<img src="https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white" alt="Ruby">
-<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" alt="Selenium">
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
-
-**APIs e dados**
-<br>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman">
-<img src="https://img.shields.io/badge/SoapUI-6BBE4C?style=flat-square&logo=smartbear&logoColor=white" alt="SoapUI">
 <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL">
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
-
-**Gestão de testes**
-<br>
 <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira">
-<img src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white" alt="Trello">
-<img src="https://img.shields.io/badge/Xray-1E1E1E?style=flat-square&logoColor=white" alt="Xray">
-<img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white" alt="Azure DevOps">
-<img src="https://img.shields.io/badge/TestRail-65C179?style=flat-square&logoColor=white" alt="TestRail">
-<img src="https://img.shields.io/badge/SilkCentral-1E1E1E?style=flat-square&logoColor=white" alt="SilkCentral">
-
-**Práticas**
-<br>
 <img src="https://img.shields.io/badge/BDD%20%2F%20Gherkin-23D96C?style=flat-square&logo=cucumber&logoColor=white" alt="BDD / Gherkin">
-<img src="https://img.shields.io/badge/Métricas%20de%20qualidade-2B2B2B?style=flat-square" alt="Métricas de qualidade">
-<img src="https://img.shields.io/badge/IA%20aplicada%20a%20QA-2B2B2B?style=flat-square" alt="IA aplicada a QA">
-
-</details>
 
 ---
 
